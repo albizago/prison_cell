@@ -11,3 +11,8 @@ S = P = 0 \quad R = 1 \quad T = b
 $$
 
 so there is **just one parameter**. This does not prevent the model from exhibiting the full **complex dynamics**, with chaotic behaviour and **fractal** patterns.
+
+<p align="center">
+<img src="anim_15.gif" width="650">
+</br> <i>Output example (250x250)</i>
+</p>
